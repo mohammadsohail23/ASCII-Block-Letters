@@ -4,7 +4,7 @@ This is a small Python project from the Codecademy **Learn Python 3** course.
 It prints my initials as ASCII art using block letters.
 
 ## 👨‍💻 Author
-**Zayed Sohail**
+**Mohammad Z Sohail**
 
 > Fun fact: I do Codecademy for free time!
 
